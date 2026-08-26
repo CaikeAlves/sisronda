@@ -1,2 +1,2 @@
-# sisronda
-uma aplicativo de ronda feito em python e SQLite.
+# sispes
+uma aplicativo para usar otimizar o seu dia à dia  feito em python e SQLite.
